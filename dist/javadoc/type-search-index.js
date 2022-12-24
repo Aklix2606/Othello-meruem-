@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"edu.upc.epsevg.prop.othello.players.meruem","l":"PlayerID"},{"p":"edu.upc.epsevg.prop.othello.players.meruem","l":"PlayerMinMax"}];updateSearchResults();
